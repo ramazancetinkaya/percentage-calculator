@@ -51,21 +51,25 @@ $calculator = new PercentageCalculator();
 ## Examples
 
 ```php
-// Calculate percentage
-$result = $calculator->calculatePercentage(250, 20);
-echo "20% of 250 is: " . $result . "\n";
+try {
+    // Calculate percentage
+    $result = $calculator->calculatePercentage(250, 20);
+    echo "20% of 250 is: " . $result . "\n";
 
-// Calculate percentage change
-$change = $calculator->calculatePercentageChange(100, 75);
-echo "Percentage change from 100 to 75 is: " . $change . "%\n";
+    // Calculate percentage change
+    $change = $calculator->calculatePercentageChange(100, 75);
+    echo "Percentage change from 100 to 75 is: " . $change . "%\n";
 
-// Increase by percentage
-$increase = $calculator->increaseByPercentage(50, 25);
-echo "50 increased by 25% is: " . $increase . "\n";
+    // Increase by percentage
+    $increase = $calculator->increaseByPercentage(50, 25);
+    echo "50 increased by 25% is: " . $increase . "\n";
 
-// Decrease by percentage
-$decrease = $calculator->decreaseByPercentage(80, 10);
-echo "80 decreased by 10% is: " . $decrease . "\n";
+    // Decrease by percentage
+    $decrease = $calculator->decreaseByPercentage(80, 10);
+    echo "80 decreased by 10% is: " . $decrease . "\n";
+} catch (InvalidArgumentException $e) {
+    echo "Error: " . $e->getMessage();
+}
 ```
 
 ## Contributing
