@@ -13,6 +13,20 @@ A powerful and modern PHP library for performing various percentage calculations
 ·
 <a href="https://github.com/ramazancetinkaya/percentage-calculator/pulls">New Pull Request</a>
 
+## 🌟 Star this Repository!
+
+If you find the Percentage Calculator library helpful or interesting, consider giving it a star! ⭐️
+
+Your star helps us grow and motivates us to continue improving the library. It also makes it easier for others to discover and benefit from this project.
+
+### How to Star?
+
+1. **Login to Your GitHub Account:** You need to have a GitHub account.
+2. **Visit the Repository:** Go to the [Percentage Calculator Repository](https://github.com/ramazancetinkaya/percentage-calculator).
+3. **Click the Star Button:** On the top-right corner of the page, you'll find a "Star" button. Click on it!
+
+That's it! Thank you for your support! 🚀
+
 ## Table of Contents
 
 - [Features](#features)
