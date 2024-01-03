@@ -13,6 +13,8 @@
  * @link       https://github.com/ramazancetinkaya/percentage-calculator
  */
 
+namespace ramazancetinkaya;
+
 class PercentageCalculator {
     /**
      * Calculate percentage of a number.
