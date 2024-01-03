@@ -41,6 +41,8 @@ composer require ramazancetinkaya/percentage-calculator
 ## Usage
 
 ```php
+require_once 'vendor/autoload.php';
+
 use ramazancetinkaya\PercentageCalculator;
 
 $calculator = new PercentageCalculator();
