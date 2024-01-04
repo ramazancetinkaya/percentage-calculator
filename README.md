@@ -1,7 +1,7 @@
 # Percentage Calculator Library
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/ramazancetinkaya/percentage-calculator)
+[![Latest Version](https://img.shields.io/github/v/release/ramazancetinkaya/percentage-calculator)](https://github.com/ramazancetinkaya/percentage-calculator/releases)
 ![PHP](https://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/ramazancetinkaya/percentage-calculator.svg)](https://github.com/ramazancetinkaya/percentage-calculator/issues)
 [![GitHub Forks](https://img.shields.io/github/forks/ramazancetinkaya/percentage-calculator.svg)](https://github.com/ramazancetinkaya/percentage-calculator/network)
